@@ -1,0 +1,11 @@
+Model Information:
+* title:	HQ Modular Interior Walls
+* source:	https://sketchfab.com/3d-models/hq-modular-interior-walls-25eb7d4143dc4ce59f38a0e1a76b5c92
+* author:	dumitrupaius (https://sketchfab.com/dumitrupaius)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HQ Modular Interior Walls" (https://sketchfab.com/3d-models/hq-modular-interior-walls-25eb7d4143dc4ce59f38a0e1a76b5c92) by dumitrupaius (https://sketchfab.com/dumitrupaius) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
