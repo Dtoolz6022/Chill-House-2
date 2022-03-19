@@ -1,0 +1,11 @@
+Model Information:
+* title:	Final Project
+* source:	https://sketchfab.com/3d-models/final-project-6d8b1f51b6ed4f6f849b6cd29c714576
+* author:	shieldups12 (https://sketchfab.com/shieldups12)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Final Project" (https://sketchfab.com/3d-models/final-project-6d8b1f51b6ed4f6f849b6cd29c714576) by shieldups12 (https://sketchfab.com/shieldups12) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
