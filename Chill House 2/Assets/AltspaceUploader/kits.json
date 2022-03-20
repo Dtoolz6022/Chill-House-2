@@ -1,0 +1,37 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "1961799365756453036",
+            "Name": "Stereo Kit 2",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1961799365756453036_stereo_kit_2/Satellite_hight.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1961799365756453036_stereo_kit_2/Satellite_center.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1961799365756453036_stereo_kit_2/Subwoofer.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1961799365756453036_stereo_kit_2/Satellite_hight (1).prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
